@@ -1,0 +1,13 @@
+E:\desc\database\BIM_Database\BIM_Database\obj\Debug\BIM_Database.csprojResolveAssemblyReference.cache
+E:\desc\database\BIM_Database\BIM_Database\obj\Debug\BIM_Database.Form1.resources
+E:\desc\database\BIM_Database\BIM_Database\obj\Debug\BIM_Database.csproj.GenerateResource.cache
+E:\desc\database\BIM_Database\BIM_Database\obj\Debug\BIM_Database.csproj.CoreCompileInputs.cache
+E:\desc\database\BIM_Database\BIM_Database\bin\Debug\BIM_Database.dll
+E:\desc\database\BIM_Database\BIM_Database\bin\Debug\BIM_Database.pdb
+E:\desc\database\BIM_Database\BIM_Database\bin\Debug\Google.Protobuf.dll
+E:\desc\database\BIM_Database\BIM_Database\bin\Debug\MySql.Data.dll
+E:\desc\database\BIM_Database\BIM_Database\bin\Debug\Google.Protobuf.xml
+E:\desc\database\BIM_Database\BIM_Database\bin\Debug\MySql.Data.xml
+E:\desc\database\BIM_Database\BIM_Database\obj\Debug\BIM_Database.csproj.CopyComplete
+E:\desc\database\BIM_Database\BIM_Database\obj\Debug\BIM_Database.dll
+E:\desc\database\BIM_Database\BIM_Database\obj\Debug\BIM_Database.pdb
