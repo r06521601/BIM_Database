@@ -1,5 +1,7 @@
 # BIM_Database
 
+![thumbnail](img.JPG)
+
 ## Describition
 
 This is a final project of Couse Database system.
