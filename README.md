@@ -11,3 +11,5 @@ I phase BIM's information to MySQL, and use a WinForm connect to the database. T
 The project target is comparing with Relational DataBase and Object-Oriented DataBase in the BIM system.
 
 The result of the experiment shows that RDB will ten times faster than ODB. Because of ODB should take a lot of time on inheritance class. RDB will just show the table of the database. 
+
+![thumbnail](RESULT.JPG)
